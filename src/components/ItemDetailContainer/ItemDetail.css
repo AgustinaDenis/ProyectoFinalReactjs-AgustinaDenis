@@ -1,0 +1,55 @@
+
+.tituloDetalle{
+    font-family: "Berkshire Swash", serif;
+    color: black;
+    font-weight: 800;
+}
+
+.imagenDetalle{
+    width: 300px;
+    height: 300px;
+}
+
+.nombreDetalle{
+    font-family:"League Spartan", sans-serif;
+    color: black;
+    font-weight: 750;
+    font-size: x-large;
+
+}
+
+.descripcionDetalle{
+    font-family:"League Spartan", sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size:larger;
+}
+
+.precioDetalle{
+    font-family:"League Spartan", sans-serif;
+    color: #cdb4db;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.botonitemdetail{
+    color: white;
+    background-color:  #cdb4db;
+    border: #cdb4db;
+}
+
+.botonitemdetail:hover{
+    background-color: #bde0fe;
+    color: black;
+}
+
+.botonvercarrito{
+    color:white;
+    background-color: #bde0fe; 
+    border: #bde0fe;
+}
+
+.botonvercarrito:hover{
+    background-color:#cdb4db;
+    color: black;
+}

@@ -1,0 +1,41 @@
+.agregarcarrito{
+    background-color:  #ffafcc;
+    
+    border: #ffafcc;
+    color: white;
+}
+.agregarcarrito:hover{
+    background-color:#bde0fe;
+    color: black;
+}
+
+.contador{
+    height: 50px;
+}
+
+.grupobotones{
+    border: #bde0fe;
+}
+.grupobotones:hover{
+    background-color:#bde0fe;
+    color: black;
+}
+
+.botonmenos{
+    background-color: white;
+    color: black;
+    border-color:#bde0fe;
+}
+
+.botoncontador{
+    background-color: white;
+    color: black;
+    border-color:#bde0fe;
+    
+}
+
+.botonmas{
+    background-color: white;
+    color: black;
+    border-color:#bde0fe;
+}

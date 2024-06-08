@@ -1,0 +1,19 @@
+.titulockeck{
+    font-family: "Berkshire Swash", serif;
+    text-align: center;
+}
+
+.textoorden{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+}
+
+.botonfinal{
+    background-color: #cdb4db;
+    border: #cdb4db;
+}
+
+.botonfinal:hover{
+    background-color: #bde0fe;
+    color: black;
+}

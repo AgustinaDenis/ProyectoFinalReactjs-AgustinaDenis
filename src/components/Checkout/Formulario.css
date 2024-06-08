@@ -1,0 +1,37 @@
+.tituloform{
+    font-family: "Berkshire Swash", serif;
+}
+
+.nombreform{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+    color: black;
+}
+
+.telefonoform{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+    color: black;
+}
+
+.emailform{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+    color: black;
+}
+
+.repemailform{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+    color: black;
+}
+
+.botoncomprarfinal{
+    background-color: #cdb4db;
+    border: #cdb4db;
+}
+
+.botoncomprarfinal:hover{
+    background-color: #bde0fe;
+    color: black;
+}

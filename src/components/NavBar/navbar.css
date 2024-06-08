@@ -1,0 +1,13 @@
+.fondo{
+    background-color: #bde0fe;
+}
+
+.letrasMenu{
+    font-family:"League Spartan", sans-serif;
+    color: black;
+    font-size: 25px;
+    display: flex;
+    font-weight: 700;
+}
+
+

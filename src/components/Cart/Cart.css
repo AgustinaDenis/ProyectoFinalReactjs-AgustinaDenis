@@ -1,0 +1,64 @@
+
+.titulocarrito{
+    font-family: "Berkshire Swash", serif;
+}
+
+.productosCarrito{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.imagenCarrito{
+    width: 100px;
+}
+
+.nombrecarrito{
+    font-family:"League Spartan", sans-serif;
+    font-size:larger;
+    color: black;
+    font-weight: 750;
+
+}
+
+.botonmdelete{
+    background-color: black;
+    border: black;
+}
+.botonmdelete:hover{
+    background-color: #cdb4db;
+}
+
+.botoncomprar{
+    justify-content: space-evenly;
+    background-color: #cdb4db;
+    border: #cdb4db;
+}
+.botoncomprar:hover{
+    background-color: #bde0fe;
+    color: black;
+}
+.botonvaciar{
+    justify-content: space-evenly;
+    background-color: #cdb4db;
+    border: #cdb4db;
+}
+.botonvaciar:hover{
+    background-color: #bde0fe;
+    color: black;
+}
+
+.mensajecart{
+    font-family: "Berkshire Swash", serif;
+    text-align: center;
+}
+
+.botonvolver{
+    justify-content: space-evenly;
+    background-color: #cdb4db;
+    border: #cdb4db;
+}
+.botonvolver:hover{
+    background-color: #bde0fe;
+    color: black;
+}

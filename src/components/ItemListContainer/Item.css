@@ -1,0 +1,30 @@
+
+.cardProductos{ 
+    margin-bottom: 20px;
+    width: 250px;  
+}
+.botonDetalle{
+    text-decoration: none;
+    font-family:"League Spartan", sans-serif;
+    font-weight: 500;
+    color: white;
+    background-color:  #ffafcc;
+}
+
+.tituloProducto{
+    font-family:"League Spartan", sans-serif;
+    color: black;
+    font-weight: 750;
+}
+
+.precioProducto{
+    font-family:"League Spartan", sans-serif;
+    color: #cdb4db;
+    font-weight: 750;
+}
+
+.imagenesProductos{
+    width: 215px;
+    height: 200px;
+
+}
